@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "libnspire-dlang": {
+      "version": "0.0.2",
+      "sha256": "0a2d1gf7lv30zrpvp00ld3hfg39h62mignzs2lf7l45bb2lzcq67"
+    }
+  }
+}
